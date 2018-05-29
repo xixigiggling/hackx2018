@@ -1,0 +1,32 @@
+[2018-05-09T15:32:13.965] [INFO] log4jslog - ::1 - - "GET / HTTP/1.1" 200 1135 "" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:32:14.265] [INFO] log4jslog - ::1 - - "GET /static/css/app.d1c14cf44498fc738d65c20af573926e.css HTTP/1.1" 200 1890 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:32:14.309] [INFO] log4jslog - ::1 - - "GET /static/js/manifest.2ae2e69a05c33dfc65f8.js HTTP/1.1" 200 857 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:32:14.322] [INFO] log4jslog - ::1 - - "GET /static/js/app.089a81c2aba72c8896d8.js HTTP/1.1" 200 6332 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:32:14.323] [INFO] log4jslog - ::1 - - "GET /static/js/vendor.3e8662f8dbfc62c7b629.js HTTP/1.1" 200 164989 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:32:14.423] [WARN] log4jslog - ::1 - - "GET /static/css/app.d1c14cf44498fc738d65c20af573926e.css HTTP/1.1" 304 - "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:32:14.426] [WARN] log4jslog - ::1 - - "GET /static/js/manifest.2ae2e69a05c33dfc65f8.js HTTP/1.1" 304 - "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:32:14.427] [WARN] log4jslog - ::1 - - "GET /static/js/vendor.3e8662f8dbfc62c7b629.js HTTP/1.1" 304 - "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:32:14.429] [WARN] log4jslog - ::1 - - "GET /static/js/app.089a81c2aba72c8896d8.js HTTP/1.1" 304 - "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:36:18.007] [INFO] log4jslog - ::1 - - "GET / HTTP/1.1" 200 1135 "" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:36:18.045] [INFO] log4jslog - ::1 - - "GET /static/js/manifest.2ae2e69a05c33dfc65f8.js HTTP/1.1" 200 857 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:36:18.049] [INFO] log4jslog - ::1 - - "GET /static/js/app.089a81c2aba72c8896d8.js HTTP/1.1" 200 6332 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:36:18.051] [INFO] log4jslog - ::1 - - "GET /static/js/vendor.3e8662f8dbfc62c7b629.js HTTP/1.1" 200 164989 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:36:18.203] [ERROR] log4jslog - ::1 - - "GET /api/users HTTP/1.1" 500 1466 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T15:36:18.282] [INFO] log4jslog - ::1 - - "GET /favicon.ico HTTP/1.1" 200 1135 "http://localhost:8088/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+[2018-05-09T19:13:05.374] [INFO] log4jslog - a new user online: ::1
+[2018-05-09T19:13:05.377] [INFO] log4jslog - now online numbers is : 1
+[2018-05-09T19:13:05.939] [INFO] log4jslog - GET a random article, user: ::1
+[2018-05-09T19:13:05.940] [INFO] log4jslog - iplist initial, add first user: ::1
+[2018-05-09T19:13:05.940] [INFO] log4jslog - 记一次书缘 read +1
+[2018-05-09T19:13:05.944] [INFO] log4jslog - now iplist is [object Object]
+[2018-05-09T19:28:43.940] [INFO] log4jslog - a new user online: ::1
+[2018-05-09T19:28:43.941] [INFO] log4jslog - now online numbers is : 1
+[2018-05-09T19:28:44.014] [INFO] log4jslog - GET a random article, user: ::1
+[2018-05-09T19:28:44.014] [INFO] log4jslog - 医生的故事 read +1
+[2018-05-09T19:28:44.015] [INFO] log4jslog - now iplist is [object Object]
+[2018-05-09T19:29:05.228] [INFO] log4jslog - GET a random article, user: ::1
+[2018-05-09T19:29:05.228] [INFO] log4jslog - 影的告别 read +1
+[2018-05-09T19:29:05.228] [INFO] log4jslog - now iplist is [object Object]
+[2018-05-09T19:29:29.273] [INFO] log4jslog - GET a random article, user: ::1
+[2018-05-09T19:29:29.273] [INFO] log4jslog - 人老了是什么感觉 read +1
+[2018-05-09T19:29:29.274] [INFO] log4jslog - now iplist is [object Object]

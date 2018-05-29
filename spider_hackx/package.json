@@ -1,0 +1,27 @@
+{
+  "name": "spider_onearticle",
+  "version": "1.0.0",
+  "description": "a spider for oneArticle",
+  "scripts": {
+    "start": "node spider.js"
+  },
+  "keywords": [
+    "spider",
+    "oneArticle"
+  ],
+  "author": "xixigiggling",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xixigiggling/spider_oneArticle.git"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^0.22.0",
+    "iconv-lite": "^0.4.22",
+    "mongodb": "^2.2.33",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "signale": "^1.1.0"
+  }
+}
