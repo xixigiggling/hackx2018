@@ -11,7 +11,7 @@ api: [jieba](https://github.com/fxsjy/jieba)、[word_cloud](https://github.com/a
 
 demo数据改成nodejs来爬，爬了20位用户，先写成json，再一次性存的mongodb，效率大大提高
 
-结果展示页面:
+结果展示页面: node+express+mongodb+fullpage.js速搭
 
 ![](https://github.com/xixigiggling/markdownImgs/raw/master/res/login.png)
 
